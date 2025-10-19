@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/angelikabanner.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Angelika Buimistruk</h1>
 <h3 align="center">A Web Content Editor | HTML Email developer</h3>
