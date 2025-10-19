@@ -38,8 +38,8 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
+					<a href='https://inventive64d0745e3c.wordpress.com/' target="_blank">
+						<img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb1.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -60,8 +60,8 @@
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://omega-store4.myshopify.com/' target="_blank">
+						<img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb2.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -82,7 +82,7 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                        <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb3.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -102,7 +102,7 @@
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                        <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb4.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
