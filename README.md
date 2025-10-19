@@ -121,10 +121,10 @@
         </tr>
 		<tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Project 5</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb3.png" alt="project 3" height="100%" />
+                        <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb3.png" alt="project 5" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -141,10 +141,10 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Project 6</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb4.png" alt="project 4" height="100%" />
+                        <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb4.png" alt="project 6" height="100%" />
                     </a>
                     <br>
                     <br>
