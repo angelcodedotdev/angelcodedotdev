@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Angelika Buimistruk</h1>
 <h3 align="center">A Web Content Editor | HTML Email developer</h3>
-<h4 align="center">Hi my name is Angelika Buimistruk a web developer based out of Eastern Europe. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h4 align="center">Hi my name is Angelika Buimistruk a web developer based out of Eastern Europe. I'm a Junior Web Developer with a passion for building clean, responsive websites and optimizing user experiences. I specialize in web content editing and HTML email development, ensuring content is both visually appealing and compatible across all email clients. Always eager to learn and contribute to dynamic web projects. </h4>
 
 <hr>
 
