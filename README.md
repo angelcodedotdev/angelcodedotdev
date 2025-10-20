@@ -107,7 +107,7 @@
                     <br>
                     <br>
                     <p>
-                        <a href="https://angelcode.dev/electro/electro-promotional-email" target="_blank">
+                        <a href="https://github.com/angelcodedotdev/Electro" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://angelcode.dev/electro/electro-promotional-email" target="_blank">
