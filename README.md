@@ -87,7 +87,7 @@
                     <br>
                     <br>
                     <p>
-                        <a href="https://angelcode.dev/project-1-battlefield/battlefield" target="_blank">
+                        <a href="https://github.com/angelcodedotdev/Project-1-BattleField" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://angelcode.dev/project-1-battlefield/battlefield" target="_blank">
