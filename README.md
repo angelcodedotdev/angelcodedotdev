@@ -44,16 +44,16 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://inventive64d0745e3c.wordpress.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://inventive64d0745e3c.wordpress.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>WordPress CMS</strong></p>
           <p>
-						Description goes here
+						Law firm website built with Wordpress
 					</p>
 				</div>
 			</td>
@@ -66,56 +66,57 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://omega-store4.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://omega-store4.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>Shopify CMS</strong></p>
+					<p>Online home goods store built with Shopify</p>
+					<p>Password: owayck</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://angelcode.dev/project-1-battlefield/battlefield' target="_blank">
                         <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb3.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://angelcode.dev/project-1-battlefield/battlefield" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://angelcode.dev/project-1-battlefield/battlefield" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>Promotional email for BattleField 6 global reveal</p>
                 </div>
             </td>
             <td width="50%">
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                    <a href='https://angelcode.dev/electro/electro-promotional-email' target="_blank">
                         <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb4.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://angelcode.dev/electro/electro-promotional-email" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://angelcode.dev/electro/electro-promotional-email" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, MJML</strong></p>
+		    <p>Promotional email for Apple products</p>
                 </div>	
             </td>
         </tr>
@@ -123,41 +124,41 @@
             <td width="50%">
                 <h3 align="center">Project 5</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
+                    <a href='https://angelcode.dev/wave/wave-newsletter-email' target="_blank">
                         <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb5.png" alt="project 5" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://angelcode.dev/wave/wave-newsletter-email" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://angelcode.dev/wave/wave-newsletter-email" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, MJML</strong></p>
+		    <p>Newsletter email for Wave company</p>
                 </div>
             </td>
             <td width="50%">
                 <h3 align="center">Project 6</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                    <a href='https://angelcode.dev/pretty-dresses/pretty-dresses-promotional-email' target="_blank">
                         <img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb6.png" alt="project 6" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://angelcode.dev/pretty-dresses/pretty-dresses-promotional-email" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://angelcode.dev/pretty-dresses/pretty-dresses-promotional-email" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>HTML, CSS, MJML</strong></p>
+		    <p>Promotional email for a clothing company</p>
                 </div>	
             </td>
         </tr>
