@@ -58,7 +58,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Project 2 | Password: owayck</h3>
 				<div align="center" >  
 					<a href='https://omega-store4.myshopify.com/' target="_blank">
 						<img src="https://github.com/angelcodedotdev/angelcodedotdev/blob/main/assets/projectthumb2.png" alt="project 2" height="100%" />
@@ -75,7 +75,6 @@
 					</p>
 					 <p><strong>Shopify CMS</strong></p>
 					<p>Online home goods store built with Shopify</p>
-					<p>Password: owayck</p>
 				</div>
         </tr>
 	    <tr>
