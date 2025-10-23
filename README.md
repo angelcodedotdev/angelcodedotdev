@@ -129,7 +129,7 @@
                     <br>
                     <br>
                     <p>
-                        <a href="https://angelcode.dev/wave/wave-newsletter-email" target="_blank">
+                        <a href="https://github.com/angelcodedotdev/Wave" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://angelcode.dev/wave/wave-newsletter-email" target="_blank">
